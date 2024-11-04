@@ -42,10 +42,10 @@ After preprocessing and filtering, the dataset was refined to include only the r
 
 #### 2. Feature Importance  
 **Random Forest**  
-![Feature Importance - Random Forest](images/feature_importances.png)  
+![Feature Importance - Random Forest](images/feature_importance_rf.png)  
 
 **LightGBM**  
-![Feature Importance - LightGBM](images/feature_importances_lightgbm.png)
+![Feature Importance - LightGBM](images/feature_importance_lightgbm.png)
 
 #### 3. Normalized Confusion Matrix - Random Forest  
 ![Confusion Matrix](images/confusion_matrix_rf.png)
