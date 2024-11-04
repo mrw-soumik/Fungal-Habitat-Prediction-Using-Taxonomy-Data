@@ -69,8 +69,3 @@ This project aims to predict fungal habitat types based on various biological, g
 3. Run the Jupyter Notebook: Open the Jupyter Notebook file to execute the analysis and visualizations.
    ```bash
    jupyter notebook Fungal_Habitat_Prediction.ipynb
-
-
-
-
-   
