@@ -62,3 +62,15 @@ This project aims to predict fungal habitat types based on various biological, g
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Fungal_Habitat_Prediction.git
+
+2. Install Dependencies: Ensure you have the required libraries installed:
+   ```bash
+   pip install pandas numpy scikit-learn lightgbm matplotlib seaborn
+3. Run the Jupyter Notebook: Open the Jupyter Notebook file to execute the analysis and visualizations.
+   ```bash
+   jupyter notebook Fungal_Habitat_Prediction.ipynb
+
+
+
+
+   
