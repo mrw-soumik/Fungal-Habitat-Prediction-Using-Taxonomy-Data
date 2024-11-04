@@ -1,4 +1,4 @@
-# Fungal Habitat Prediction
+# Fungal Habitat Prediction Using Taxonomy Data
 
 This project aims to predict fungal habitat types based on various biological, geographical, and seasonal data using machine learning. By testing and tuning multiple models, including Random Forest and LightGBM, the goal was to improve predictive accuracy and understand the key features impacting habitat prediction.
 
